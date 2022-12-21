@@ -1,0 +1,21 @@
+---------------------------              -------------------
+                                         |R.U.C: 20448844456
+| LA TIENDITA DE DON PEPE |              |      FACTURA     
+| Ubicados en: Piura 156  |              |    ELECTRONICA   
+                                         F001
+---------------------------              --------------------
+
+DATOS DEL CLIENTE:
+DNI: 72517914
+Quispe, Yamil
+Jr. Piura
+
+| CÓDIGO | CANTIDAD | DESCRIPCIÓN | PRECIO UNITARIO | TOTAL |
+-------------------------------------------------------------
+| 1 | 1 | Pan Integral Mediano Bolsa 480g - Bimbo | 10.0 | 10.0 |
+| 3 | 2 | Paneton Bolsa 900g - Donofrio | 2.0 | 4.0 |
+| 5 | 3 | Gaseosa Botella 3L - Inca Kola | 11.2 | 33.599999999999994 |
+                                     Subtotal: 47.599999999999994
+                                     IGV: 8.567999999999994
+                                     Total: 56.16799999999999
+Fecha: 21-12-2022  8:18
